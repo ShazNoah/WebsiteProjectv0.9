@@ -1,9 +1,6 @@
 /* SLIDING PAGE STUFF */
 
-*body {
-    overflow: hidden;
-} 
-body *{
+body {
     overflow: hidden;
 } 
 
