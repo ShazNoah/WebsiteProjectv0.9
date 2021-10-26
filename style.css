@@ -10,7 +10,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/images/background1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/WebsiteProjectv0.9/images/background1.jpg);
     background-size: cover;
     background-position: cover;
     background-attachment: fixed;
@@ -108,7 +108,7 @@
     font-size: 10px;
     /* background-blend-mode:overlay; */
     /* background-color: black;
-    background-image:url(/images/background2.png);
+    background-image:url(/WebsiteProjectv0.9/images/background2.png);
     background-attachment: fixed; */
 }
 
