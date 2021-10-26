@@ -1,8 +1,12 @@
 /* SLIDING PAGE STUFF */
 
-body {
+*body {
     overflow: hidden;
 } 
+body *{
+    overflow: hidden;
+} 
+
 /* .navigationtabslidingpage {
     width: 90%;
     margin: auto;
